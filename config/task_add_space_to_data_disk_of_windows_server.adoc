@@ -51,7 +51,7 @@ Sur une machine virtuelle, augmentez la taille d'une partition de disque.
  a| 
 Suivez les étapes du sujet VMware :
 
-https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1004071["Augmentation de la taille d'une partition de disque"]
+https://knowledge.broadcom.com/external/article/323136/increasing-the-size-of-a-virtual-disk-pa.html["Augmentation de la taille d'une partition de disque"^]
 
 |===
 

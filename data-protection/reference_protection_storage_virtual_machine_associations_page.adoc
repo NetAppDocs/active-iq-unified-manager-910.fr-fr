@@ -15,6 +15,7 @@ La page des pairs SVM vous permet de voir vos pairs de machines virtuelles de st
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :
@@ -31,6 +32,7 @@ Permet de supprimer les pairs de machine virtuelle de stockage sélectionnés.
 
 
 
+[[storage-vm-peers-list]]
 == Liste des pairs pour les machines virtuelles de stockage
 
 La liste des pairs de SVM affiche dans une table les associations VM de stockage source et de destination qui ont été créées et le type de relation de protection autorisée pour chaque association.

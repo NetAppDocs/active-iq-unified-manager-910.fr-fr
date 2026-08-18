@@ -15,6 +15,7 @@ L'assistant Créer des pairs de machine virtuelle de stockage vous permet de pee
 
 
 
+[[select-source]]
 == Sélectionnez Source
 
 Le panneau Sélectionner la source vous permet de sélectionner la machine virtuelle de stockage source ou primaire dans l'homologue de la machine virtuelle de stockage.
@@ -61,12 +62,14 @@ Spécifie une relation SnapVault comme type homologue. La sélection de cette op
 
 
 
+[[select-protection-destinations]]
 == Sélectionnez destinations de protection
 
 Le panneau Select protection destinations de l'assistant Create Storage Virtual machine Pers vous permet de sélectionner l'emplacement de copie ou de réplication des données. Un homologue ne peut être créé que sur une seule machine virtuelle de stockage de destination par cluster.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :

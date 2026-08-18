@@ -27,6 +27,7 @@ Vous pouvez passer le curseur de votre souris sur chacun des graphiques à barre
 
 
 
+[[data-protection-page]]
 == Page protection des données
 
 La page protection des données affiche les panneaux suivants pour les volumes protégés de tous les clusters.
